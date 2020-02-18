@@ -1,0 +1,542 @@
+Predictions,PredictionCount
+citrus,1265
+lavender,308
+fresh clean,128
+woody,1070
+unscented,1325
+chypre,62
+"amber, lavender, spicy",389
+"fruity, floral",1591
+"woody, aquatic",38
+"lime, lemon",26
+floral,2601
+"chypre, floral",159
+"woody, oriental",1371
+pine,134
+clean fresh,129
+flowery,1279
+spice,26
+orange blossom,18
+"oriental, fougere",80
+"fruity, woodsy, floral",4
+"woody, spicy",260
+lemon,745
+"woody, floral",234
+strawberry,17
+aquatic,276
+woodsy,138
+fruity,739
+floral green,104
+light floral,61
+oriental,853
+fougere,192
+"oriental, floral",945
+cucumber melon,56
+pomegranate,32
+"gourmand, fruity, floral",65
+"woody, fruity",27
+spicy,381
+berry,30
+jasmine,36
+"aquatic, floral",78
+"fruity, florally",28
+"woodsy, spicy",39
+vanilla,244
+"peach, vanilla",2
+cherry,163
+"woody, musk, floral",219
+"chypre, fruity",49
+"woody, mossy",428
+"citrus, fruity",31
+"musk, floral",11
+"oriental, woodsy",26
+musk,40
+"woodsy, warm spicy",2
+"citrus, floral",82
+citrusy,67
+"citrusy, floral",21
+"citrus, fruity, floral",6
+assorted,33
+mint,91
+cinnamon,43
+cucumber,16
+"woody, fruity, floral",7
+"fruity, tropical",4
+peach,34
+"citrus, peach",4
+luscious apple,3
+"oriental, spicy",272
+eucalyptus,27
+new car,13
+rosemary,5
+raspberry,22
+leather,52
+"woody, leather",4
+ginger,9
+fresh linen,53
+"oriental, fruity",18
+coconut,48
+vanilla bean,6
+grapefruit,33
+orange,170
+"herbal, lavender",6
+lemony,5
+"citrus, woody",53
+rain,56
+"woodsy, floral",22
+"citrus, gourmand",13
+mango,116
+"spicy, floral",26
+"lavender, vanilla",25
+sandalwood,22
+rose,67
+lime,40
+"musky, spicy",7
+"spicy cinnamon, cranberry",1
+honeysuckle,39
+"aquatic, spicy",3
+linen,82
+warm spicy,21
+almond,40
+"spicy, fruity, floral",1
+"earthy, woody",2
+"musky, fruity, floral",7
+spring flower,6
+"florally, woodsy",4
+flowers,6
+morning pine,1
+amber,22
+lemongrass,44
+apple,76
+"citrusy, woodsy",2
+herbal,79
+aloe,27
+"woodsy, musk, floral",5
+"musky, gourmand",5
+pineapple,19
+sage,4
+"orchid, vanilla",4
+"fruity, flowery",4
+flower,18
+patchouli,7
+"woody, fougere",7
+"oriental, vanilla",95
+"orange, lavender, rose",2
+wood,9
+"fruity, spicy",5
+"peach, sparkling bloom",5
+"mandarin, mint",1
+"grapefruit, lime, lemon",2
+"musky, floral",14
+eucalyptus mint,4
+tropical,84
+orchid,11
+earthy,36
+"woods, vanilla",1
+"woody, citrusy",18
+"orange, vanilla",8
+"musky, woody",10
+"citrusy, spicy",3
+pina colada,8
+"grapefruit, lemon",7
+ocean mist,13
+spiced apple,15
+"citrus, woody, floral",6
+spring rain,11
+"rosemary, mint",22
+"jasmine, lavender, orange, vanilla",1
+lily,6
+rain forest,3
+"chamomile, lavender",31
+"musky, woody, floral",8
+"lavender, spicy",6
+"aquatic, musk",5
+cranberry,31
+"woody, flowery",4
+mossy,2
+"lemongrass, thyme",8
+"lily, lavender",3
+"apple, spice",18
+"lily, jasmine",12
+"lilies, linen",4
+"citrus, aquatic",8
+mandarin orange,9
+"citrus, lemon",12
+gourmand,13
+rain garden,2
+"thyme, lemon",1
+"citrus, light citrus",1
+musky,26
+apple cinnamon,20
+"citrus, sage",7
+"woody, oriental, spicy",6
+chocolate,4
+"tropical, lime",9
+"berry, mint",4
+"jasmine, lavender",4
+"oriental, florally",9
+"tropical, floral",10
+cherry blossom,5
+"fruity, woodsy",6
+"cucumber, green tea",11
+pine forest,8
+light citrus,20
+"pine, herbal",10
+"earthy, patchouli",1
+"chypre, woody",29
+"aloe, green tea",8
+sassafras,27
+"citrus, lemongrass",2
+"peach, pineapple, pear",2
+fresh fruit,14
+leathery,11
+florally,11
+"fruity, florally, floral",1
+"apple, cinnamon",7
+"mango, peach",6
+"raspberry, juicy bloom",5
+"tea tree, peppermint, almond, lavender",7
+"citrus, mint, sage",1
+"spice, cinnamon",6
+pear,13
+green apple,29
+"flower, floral",2
+citron rose,6
+"oriental, musk",1
+"mandarin, spice",6
+"gourmand, woody",1
+pomegranate splash,10
+"citrus, jasmine, lavender, eucalyptus",2
+mandarin,3
+"tea tree, cucumber",4
+night musk,1
+"amber, fruity",1
+"orange, lemon",2
+blueberry,2
+"fruity, citrusy",4
+"strawberry, new car, vanillaroma, coconut, royal pine",3
+"spiced apple, vanilla",1
+chamomile,10
+peppermint,6
+"citrus, earthy",1
+bayberry,7
+"citrus, cedar",1
+"citrus, vanilla",4
+crisp linen,28
+"woody, herbal",2
+"citrus, woodsy",7
+"citrus, ginger",5
+woods,8
+"citrusy, orange",1
+"vanilla, floral",3
+"berry, vanilla",1
+"earthy, floral",5
+"tropical, pineapple",2
+melon,4
+"apple, rose, lemon",1
+"cherry, melon, lemon",2
+"magnolia, lily",8
+"cherry, rose",2
+"tea, cucumber",3
+"coconut, ginger",2
+"chypre, citrus",2
+"fruity, musk",6
+"oriental, leathery",2
+"woody, musk",4
+"tea, floral",1
+"woodsy, leathery",2
+"cinnamon, lavender",2
+"oriental, fruity, floral",9
+"citrus, spice",2
+tea,5
+"ocean mist, spice, vanilla",2
+"mango, ginger",2
+magnolia,6
+"flower, mandarin",4
+"herbal, floral",7
+"amber, woody, spicy, citrus",1
+"citrus, mint",2
+"grapefruit, herbal tea, lemon",1
+"citrus, berry, new car, lemon",2
+"amber, fruity, musk, floral",3
+"fruity, citrusy, mossy",1
+"pomegranate, grapefruit",2
+"chypre, spicy",2
+fresh pear,6
+"lemony, floral",3
+"mandarin orange, lemon",4
+"jasmine, vanilla",2
+"strawberry, new car, vanillaroma, leather, royal pine",2
+"jasmine, cucumber",3
+"ginger, green tea",1
+"chypre, oriental, fruity",3
+cedar,11
+"jasmine, rose",1
+"woody, aquatic, floral",2
+"cranberry, vanilla",2
+cinnaberry,1
+"orchid, musk, hawaiian ginger",1
+"peach, coconut, strawberry, clove, lemon, cherry",2
+"spicy, aquatic, floral",1
+"blueberry, lavender",1
+tea tree,4
+"woodsy, wood",1
+luscious floral,14
+"ocean mist, tropical",4
+"balsamic, herbal, flowers, patchouli, lavender",3
+"fruity, aquatic",5
+aloe vera,4
+"fresh linen, linen",1
+hawaiian ginger,2
+"musky, fruity",1
+"amber, woody",4
+"coconut, pineapple",2
+"almond, cherry",7
+"flowery, spicy",2
+"lavender, mint, floral",6
+"lime, vanilla",1
+"apple, orange",4
+"citrusy, florally",2
+"lavender, floral",2
+"musky, florally, woodsy",4
+"herbal, mint",4
+"citrus, orange",13
+"linens, lilies",1
+"peach, ginger",1
+"chypre, oriental, floral",4
+"flower, cranberry, orange",1
+"berry, apple, mango",1
+"woody, balsamic",1
+"lime, bergamot",6
+"pine, woods",1
+"amber, sandalwood",2
+"ginger, lemon",1
+"flower, flowery",1
+"fougere, aquatic",1
+"cedar, lavender",1
+wild berry,4
+"amber, aquatic",5
+"pink rose, floral",1
+"spring rain, jasmine, rain",1
+"chamomile, lemon",3
+"strawberry, rose, green apple, new car, orange, jasmine, vanilla",1
+"fruity, leather",1
+"eucalyptus, lemon",5
+"mint, floral",1
+"sandalwood, musk",1
+"coconut, lime",10
+"citrus, oriental",5
+"woody, oriental, leathery",1
+"lavender, rose",1
+"spicy, oriental, floral",1
+"musky, woodsy",2
+"jasmine, mint",1
+"fruity, woody",1
+"oriental, flowery",2
+balsamic,3
+"tropical, coconut",4
+"fruity, citrusy, woods",1
+"oriental, spice",3
+"balsamic, pine",1
+"citrus, gourmand, floral",3
+"amber, citrus, floral",1
+"jasmine, rain",1
+"woodsy, aquatic",7
+"ginger, tea",1
+"amber, oriental, vanilla",1
+green tea,6
+"grapefruit, vanilla",3
+"clean fresh, floral",2
+"amber, musky",3
+"wood, leather",1
+"vanilla bean, green apple, eucalyptus, rain forest, apple, cinnamon",1
+"aloe vera, rose",3
+"tea tree, lemon",1
+"lemon, vanilla",2
+"oriental, woodsy, floral",1
+"amber, mandarin, patchouli, orange, bergamot",1
+"mango, apple",4
+"fruity, luscious floral",1
+"musky, lemon",1
+royal pine,1
+"citrus, herbal, aquatic",1
+"melon, cucumber",1
+"tuberose, floral",2
+"fruity, fougere",1
+"apple cinnamon, rain, raspberry, vanilla",3
+"coconut, mandarin",1
+"flowery, green tea",1
+"gourmand, floral",9
+"flower, flowers, wood",1
+"sandalwood, wood, floral",1
+"fresh linen, fresh clean",1
+"citrus, grapefruit",2
+"musky, sandalwood",1
+"linen, citrus, luscious apple, floral, mango, assorted",1
+"woody, rosemary",2
+"apple, mint",2
+"fruity, musk, floral",4
+"fresh linen, lavender, strawberry",2
+"citrus, clean fresh",2
+"jasmine, tea",4
+"lavender, sage",3
+"fruity, citrusy, warm spicy, floral",2
+"peach, orange blossom",1
+"cucumber melon, green apple",1
+"gourmand, fruity",7
+luscious mango,2
+"berry, new car, jasmine",3
+"sandalwood, vanilla, pear, floral",1
+"peach, lavender",1
+"mango, coconut",1
+"honeysuckle, floral",2
+"tea, bergamot",1
+"fruity, tea",2
+bergamot,1
+"oriental, vanilla, floral",3
+"orchid, lavender",1
+"gourmand, spicy",3
+french vanilla,4
+"raspberry, lemon",3
+"fresh linen, lavender",1
+"oriental, almond",1
+"lavender, green apple",1
+"lavender, mint",1
+"herbal, almond",1
+passion fruit,3
+"bergamot, rose, amber, wood, patchouli, lemon, sandalwood, jasmine",1
+"citrus, apple",4
+"tropical, coconut, fruity",1
+"chypre, oriental",3
+"citrus, musk",1
+"citrus, rose",1
+"patchouli, lavender",1
+"citrus, herbal, vanilla",1
+"ginger, orange",1
+"eucalyptus, mint",1
+"pine, sage",1
+"amber, spicy",1
+"patchouli, orange",1
+"florally, musk, woodsy",1
+"amber, spice, floral",1
+"amber, wood, citrus",3
+"coconut, jasmine",1
+"spicy, woody, fruity, floral",1
+vanillaroma,2
+"tropical, lime, lavender, lemon",1
+"jasmine, floral",2
+"citrus, spicy",3
+"sage, green tea",1
+"woodsy, leather",1
+"amber, citrusy",2
+"spiced apple, clove",1
+"jasmine, orange, rose",1
+"fresh clean, lime",1
+"lavender, eucalyptus",1
+"amber, orange",1
+"jasmine, melon",1
+"coconut, lemon",1
+"citrus, lily, lavender, rose",1
+"flower, orange",1
+white lily,1
+"woodsy, fresh clean, floral",1
+"lavender, lemon",1
+"apple, chamomile",2
+"woody, spice",3
+"earthy, spicy",3
+"balsamic, woodsy, spicy",1
+"florally, almond, spicy",1
+"berry, lavender",2
+"light floral, fruity",3
+"coconut, orchid",2
+"mint, lemon",1
+"earthy, woodsy",1
+"peppermint, chocolate",1
+"berry, cherry",2
+"tea tree, eucalyptus",1
+"woodsy, mossy",1
+"citrus, lemon, floral",5
+"earthy, vanilla",1
+"berry, apple",1
+"strawberry, lemon",1
+"citrusy, tropical",1
+"citrus, tropical",1
+lemon mint,1
+"magnolia, cherry blossom",3
+"woody, orchid, floral",1
+"spice, floral",1
+"ginger, apple",1
+"tropical, lemon",1
+"luscious fruity, floral",1
+"grapefruit, apple, musk, orange, tea",2
+"oriental, citrusy",1
+"jasmine, tuberose",2
+"fruity, pear",1
+"woody, oriental, floral",2
+"orchid, floral",1
+"flower, fruity, citrus, floral",1
+"woody, fruity, spicy",4
+"raspberry, vanilla",2
+"honeysuckle, green tea",1
+"musky, woody, spicy",1
+"florally, aquatic",4
+"mandarin orange, grapefruit",2
+"musky, tropical",1
+"leather, floral",1
+"apple, lavender, rose, lemon",1
+"bergamot, ginger, orchid, musk, sandalwood, vanilla",1
+"mango, pineapple",2
+"citrus, berry",1
+"amber, lemon",1
+"citrus, lime, lemon",1
+"wild berry, cherry, orchid, rose, vanilla",1
+"oriental, woodsy, spicy",1
+"orange, floral",1
+"gourmand, leather",1
+"flowery, floral",1
+"citrus, herbal",2
+"fruity, citrusy, spicy",1
+"peach, pomegranate",1
+"citrus, fruity, clean fresh",1
+"citrus, musky",1
+"apple cinnamon, cinnamon",1
+"citrus, musk, spicy",2
+"amber, musk",2
+"pear, vanilla",1
+"berry, new car, vanilla",1
+"woody, leathery",1
+"earthy, flowery, rose",1
+"amber, oriental",1
+"citrus, wood, musk",1
+"apple, lemon",1
+"woody, florally",1
+"pine, thyme",1
+"mango, mandarin",1
+"peach, tea",1
+"tea, vanilla, green tea",1
+"citrus, leather",2
+red rose,1
+"wood, flower, musk, orange, cinnamon, vanilla",1
+"spice, sugar spice",1
+"cinnamon, raspberry",1
+"tropical, mango",1
+"oriental, wood, spicy",1
+"cinnamon, berry, lavender, ocean mist, vanilla",2
+"berry, orchid",1
+"honeysuckle, rose, wood, patchouli, flower, musk, sandalwood, jasmine",1
+"tropical, flowery",2
+"coconut, vanilla",1
+"pomegranate, lime",1
+"floral, oriental, gourmand, vanilla",1
+"citrus, cucumber",1
+"orange blossom, vanilla",1
+"tea tree, lemony",1
+"clean fresh, mint",1
+"musky, earthy",1
+"flowers, melon, vanilla",1
+"wood, mossy",1
+"woody, fougere, leather",1
+"patchouli, musk, vanilla",1
+"mint, cucumber",1
+"mango, pomegranate",1
+"pomegranate, cherry",1
